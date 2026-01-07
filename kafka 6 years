@@ -9,3 +9,27 @@ A message is lost during service restart. How do you prevent this?
 One consumer is slow and blocks others. How do you solve it?
 
 How do you handle version changes in Kafka message schema?
+
+Deployment & Configuration (Scenarios)
+
+A new deployment breaks existing clients. What mistake was made?
+
+Application works locally but fails in Kubernetes. Why?
+
+Config changes require redeployment. How do you improve this?
+
+A rollback fixes the code but DB issues remain. Why?
+
+Different behavior in dev, QA, and prod. How do you debug?
+
+9️⃣ Monitoring & Production Support (Scenarios)
+
+Service is slow but CPU and memory look fine. What next?
+
+Frequent alerts but no real issues. What’s wrong?
+
+Logs show errors but users don’t see failures. Why?
+
+Hard to trace one request across services. What’s missing?
+
+Memory usage increases slowly over time. What could cause it?
