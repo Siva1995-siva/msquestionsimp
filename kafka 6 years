@@ -33,3 +33,15 @@ Logs show errors but users don’t see failures. Why?
 Hard to trace one request across services. What’s missing?
 
 Memory usage increases slowly over time. What could cause it?
+
+Security (Scenarios)
+
+A service-to-service call starts failing due to authentication. What changed?
+
+Users see each other’s data. What security issue could cause this?
+
+Token expires during long-running requests. How do you handle it?
+
+Sensitive data appears in logs. How do you prevent it?
+
+An API is exposed publicly by mistake. How do you secure it quickly?
