@@ -1,0 +1,11 @@
+Messaging (Kafka / RabbitMQ) (Scenarios)
+
+Kafka consumer lag suddenly increases. What are the possible causes?
+
+Producer sends events but consumer doesn’t receive them. How do you debug?
+
+A message is lost during service restart. How do you prevent this?
+
+One consumer is slow and blocks others. How do you solve it?
+
+How do you handle version changes in Kafka message schema?
